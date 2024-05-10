@@ -1,6 +1,6 @@
 # Loja Virtual
 
-# Tecnologias Principais
+### Tecnologias Principais
 
 ° Spring: Utilizado para construir o backend da aplicação, fornecendo uma base sólida e escalável.
 
